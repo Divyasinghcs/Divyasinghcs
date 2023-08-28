@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Divyasinghcs
 - My name is Divya Singh.
-- 👀 I’m interested in internship.
-- 🌱 I’m currently learning frontend,backend.
+- 🌱 I’m currently learning frontend, and backend.
 - 📫 Contact - divyasinghcsit@gmail.com
 
 <!---
